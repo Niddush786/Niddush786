@@ -5,8 +5,6 @@
 
  
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **shaping my career transition into Data Analytics** — building projects that showcase real-world problem solving with SQL, Python, and BI tools.  
 - 🌱 I’m currently learning **machine learning basics** and pushing my skills in **AI automation for business** to make insights engaging and clear.  
 - 👯 I’m looking to collaborate on **open-source data projects, case studies, and analysis challenges** that highlight creativity and practical impact.  
