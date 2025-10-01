@@ -1,6 +1,20 @@
-<p align="center">
+<p align="right">
   <img src="assets/logo-animated.svg" width="160" alt="NT animated logo">
 </p>
+
+<div align="right">
+
+  <img src="assets/logo-animated.svg" width="120" alt="NT animated logo" style="vertical-align:middle; margin-right:15px;" />
+
+  <span style="font-size: 28px; font-weight: bold; background: linear-gradient(90deg, #ff007f, #ffae00, #00e5ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    👋 Hello there, I’m Nida <br>
+    <span style="font-size:18px; font-weight:normal;">
+      From teaching → forensic science → hospitality → now thriving in data analytics 🚀
+    </span>
+  </span>
+
+</div>
+
 
 
  
