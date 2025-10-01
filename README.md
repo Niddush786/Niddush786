@@ -18,7 +18,7 @@
 
  TIMELINE
 <p align="center">
-  <img src="assets/timeline2-animated.svg" alt="People skills × Data skills timeline" />
+  <img src="assets/timeline3-animated.svg" alt="People skills × Data skills timeline" />
 </p>
 
 ---
