@@ -13,7 +13,11 @@
 - 📫 How to reach me: **Email - nida.tanveer98@hotmail.com)** • www.linkedin.com/in/nt786 
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: Whether teaching a class, studying crime scenes, or managing a buzzing restaurant floor — I’ve always chased clarity. Now I just happen to find it in data. 🔍📊
- 
+  
+---
+ TIMELINE
 <p align="center">
   <img src="assets/timeline-animated.svg" alt="People skills × Data skills timeline" />
 </p>
+``` ✅  
+---
