@@ -15,9 +15,10 @@
 - ⚡ Fun fact: Whether teaching a class, studying crime scenes, or managing a buzzing restaurant floor — I’ve always chased clarity. Now I just happen to find it in data. 🔍📊
   
 ---
+
  TIMELINE
 <p align="center">
   <img src="assets/timeline-animated.svg" alt="People skills × Data skills timeline" />
 </p>
-``` ✅  
+
 ---
