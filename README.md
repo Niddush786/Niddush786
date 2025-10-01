@@ -110,6 +110,6 @@ Outcome: Built predictive models to recommend the best platform fit for titles a
 Links to LinkedIn, Email, Portfolio, Kaggle, etc.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nt786)
-[![Email](https://img.shields.io/badge/Email-yourname@email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nida.tanveer98@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-nida.tanveer98@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nida.tanveer98@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub%20README-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niddush786)
 
