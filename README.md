@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo-animated.svg" width="160" alt="NT animated logo">
+</p>
 
 
  
