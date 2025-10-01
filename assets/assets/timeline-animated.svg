@@ -1,0 +1,120 @@
+<!-- assets/timeline-animated.svg -->
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Career timeline: From the sea to data">
+  <title>From the sea to data — Teaching → Forensics → Hospitality → Communications → Le Wagon → Data</title>
+
+  <defs>
+    <!-- Vibrant gradient for the main timeline stroke -->
+    <linearGradient id="grad-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#ff007f"/>
+      <stop offset="50%" stop-color="#ffae00"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+
+    <!-- Label styling -->
+    <style>
+      .title { font: 700 20px/1.2 Inter, Segoe UI, Roboto, Arial, sans-serif; fill:#111; }
+      .year  { font: 700 13px/1 Inter, Segoe UI, Roboto, Arial, sans-serif; fill:#111; }
+      .role  { font: 500 12px/1.35 Inter, Segoe UI, Roboto, Arial, sans-serif; fill:#333; }
+      .hint  { font: 600 12px/1 Inter, Segoe UI, Roboto, Arial, sans-serif; fill:#666; letter-spacing:.12em; }
+      @media (prefers-color-scheme: dark) {
+        .title, .year { fill:#fff; }
+        .role { fill:#ddd; }
+        .hint { fill:#aaa; }
+      }
+    </style>
+  </defs>
+
+  <!-- Header -->
+  <text x="40" y="40" class="title">From the sea to data</text>
+  <text x="40" y="60" class="hint">TEACHING → FORENSICS → HOSPITALITY → COMMUNICATIONS → LE WAGON → DATA</text>
+
+  <!-- Baseline (faint, always visible) -->
+  <line x1="40" y1="140" x2="960" y2="140" stroke="#e5e5e5" stroke-width="4" stroke-linecap="round" />
+
+  <!-- Animated draw-on line above baseline -->
+  <line x1="40" y1="140" x2="960" y2="140" stroke="url(#grad-line)" stroke-width="6" stroke-linecap="round"
+        stroke-dasharray="920" stroke-dashoffset="920">
+    <animate attributeName="stroke-dashoffset" from="920" to="0" dur="2.2s" fill="freeze" />
+  </line>
+
+  <!-- Helper: a function-like group to stamp a milestone -->
+  <!-- For each milestone:
+       data-x: cx
+       data-c: fill color
+       y node: 140
+       stem: 140->100 (above) or 140->180 (below) to stagger labels
+  -->
+
+  <!-- 2014 — Teaching -->
+  <g transform="translate(100,140)">
+    <!-- Node -->
+    <circle r="10" fill="#7c3aed">
+      <animate attributeName="r" values="10;13;10" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <!-- Stem up -->
+    <line x1="0" y1="0" x2="0" y2="-40" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" />
+    <!-- Labels -->
+    <text x="0" y="-58" text-anchor="middle" class="year">2014</text>
+    <text x="0" y="-40" dy="-10" text-anchor="middle" class="role">Teaching</text>
+  </g>
+
+  <!-- 2016 — Forensic Science (studies) -->
+  <g transform="translate(240,140)">
+    <circle r="10" fill="#ef4444">
+      <animate attributeName="r" values="10;13;10" dur="2s" begin=".15s" repeatCount="indefinite" />
+    </circle>
+    <line x1="0" y1="0" x2="0" y2="40" stroke="#ef4444" stroke-width="3" stroke-linecap="round" />
+    <text x="0" y="68" text-anchor="middle" class="year">2016</text>
+    <text x="0" y="40" dy="14" text-anchor="middle" class="role">Forensic Science</text>
+  </g>
+
+  <!-- 2017–2018 — Hospitality -->
+  <g transform="translate(380,140)">
+    <circle r="10" fill="#f59e0b">
+      <animate attributeName="r" values="10;13;10" dur="2s" begin=".3s" repeatCount="indefinite" />
+    </circle>
+    <line x1="0" y1="0" x2="0" y2="-40" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" />
+    <text x="0" y="-58" text-anchor="middle" class="year">2017–2018</text>
+    <text x="0" y="-40" dy="-10" text-anchor="middle" class="role">Hospitality</text>
+  </g>
+
+  <!-- 2018 — Communications (IFS Singapore) -->
+  <g transform="translate(520,140)">
+    <circle r="10" fill="#06b6d4">
+      <animate attributeName="r" values="10;13;10" dur="2s" begin=".45s" repeatCount="indefinite" />
+    </circle>
+    <line x1="0" y1="0" x2="0" y2="40" stroke="#06b6d4" stroke-width="3" stroke-linecap="round" />
+    <text x="0" y="68" text-anchor="middle" class="year">2018</text>
+    <text x="0" y="40" dy="14" text-anchor="middle" class="role">Comms — IFS Singapore</text>
+  </g>
+
+  <!-- 2019 — Communications (Port of Saint-Tropez) -->
+  <g transform="translate(660,140)">
+    <circle r="10" fill="#10b981">
+      <animate attributeName="r" values="10;13;10" dur="2s" begin=".6s" repeatCount="indefinite" />
+    </circle>
+    <line x1="0" y1="0" x2="0" y2="-40" stroke="#10b981" stroke-width="3" stroke-linecap="round" />
+    <text x="0" y="-58" text-anchor="middle" class="year">2019</text>
+    <text x="0" y="-40" dy="-10" text-anchor="middle" class="role">Comms — Port of Saint-Tropez</text>
+  </g>
+
+  <!-- 2025 — Le Wagon (Data Analysis) -->
+  <g transform="translate(800,140)">
+    <circle r="10" fill="#3b82f6">
+      <animate attributeName="r" values="10;13;10" dur="2s" begin=".75s" repeatCount="indefinite" />
+    </circle>
+    <line x1="0" y1="0" x2="0" y2="40" stroke="#3b82f6" stroke-width="3" stroke-linecap="round" />
+    <text x="0" y="68" text-anchor="middle" class="year">2025</text>
+    <text x="0" y="40" dy="14" text-anchor="middle" class="role">Bootcamp — Le Wagon (Data Analysis)</text>
+  </g>
+
+  <!-- 2025+ — Data Analyst (BI / Analytics / Viz) -->
+  <g transform="translate(920,140)">
+    <circle r="10" fill="#8b5cf6">
+      <animate attributeName="r" values="10;13;10" dur="2s" begin=".9s" repeatCount="indefinite" />
+    </circle>
+    <line x1="0" y1="0" x2="0" y2="-40" stroke="#8b5cf6" stroke-width="3" stroke-linecap="round" />
+    <text x="0" y="-58" text-anchor="middle" class="year">2025+</text>
+    <text x="0" y="-40" dy="-10" text-anchor="middle" class="role">Data Analyst — BI · Analytics · Viz</text>
+  </g>
+</svg>
