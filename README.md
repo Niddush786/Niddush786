@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **open-source data projects, case studies, and analysis challenges** that highlight creativity and practical impact.  
 - 🤔 I’m looking for help with **navigating the data industry** as someone coming from hospitality and teaching — understanding how to position my transferable skills effectively.  
 - 💬 Ask me about **customer insights, turning operations into numbers, visual storytelling, and how to teach complex topics simply**  
-- 📫 How to reach me: **(mail to:nida.tanveer98@hotmail.com)** • [LinkedIn](www.linkedin.com/in/nt786)  
+- 📫 How to reach me: **(Email:nida.tanveer98@hotmail.com)** • [LinkedIn](www.linkedin.com/in/nt786)  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: Whether teaching a class, studying crime scenes, or managing a buzzing restaurant floor — I’ve always chased clarity. Now I just happen to find it in data. 🔍📊
  
