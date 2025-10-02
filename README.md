@@ -37,38 +37,46 @@ I don’t just crunch numbers — I connect the “what” to the “why,” ens
 
 **Tools & Skills:**  
 
-<p>
-  <!-- Google Sheets -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets" width="40" height="40"/>
-  
-  <!-- Microsoft Excel -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/>
+<p align="left">
 
-  
-  <!-- KPI Metrics (Chart.js) -->
-  <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js (KPI Metrics)" width="40" height="40"/>
-  
+  <!-- Google Sheets -->
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <!-- Microsoft Excel -->
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+
+  <!-- BigQuery -->
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
+
+  <!-- Chart.js -->
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
   <!-- dbt -->
-  <img src="https://raw.githubusercontent.com/dbt-labs/dbt-styleguide/main/assets/dbt-logo-full.svg" alt="dbt" width="40" height="40"/>
-  
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+
   <!-- Fivetran -->
-  <img src="https://seeklogo.com/images/F/fivetran-logo-58560E3998-seeklogo.com.png" alt="Fivetran" width="40" height="40"/>
-  
+  <img src="https://img.shields.io/badge/Fivetran-4285F4?style=for-the-badge&logo=fivetran&logoColor=white" />
+
   <!-- Google Tag Manager -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Google_Tag_Manager_logo.png" alt="Google Tag Manager" width="40" height="40"/>
-  
+  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" />
+
   <!-- Zapier -->
-  <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="Zapier" width="40" height="40"/>
-  
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
+
   <!-- Data Governance (generic shield) -->
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Data-Governance-data-science-flat-icons-inmotus-design.png" alt="Data Governance" width="40" height="40"/>
-  
-  <!-- Python + BeautifulSoup (web scraping) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://beautiful-soup-4.readthedocs.io/en/latest/_static/bs4-logo.png" alt="BeautifulSoup" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Data%20Governance-555555?style=for-the-badge&logo=shield&logoColor=white" />
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- BeautifulSoup -->
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+
 </p>
 
 
@@ -89,11 +97,11 @@ Outcome: Built predictive models to recommend the best platform fit for titles a
  **Tech Stack:** 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets" width="40" height="40"/>
-  <img src="https://www.themoviedb.org/assets/2/v4/logos/stacked-blue-e3f94f0f0679c6a8f6aa8df6de7ab8a8d70e1a9e4f5ee0e8c3e3eaa2adf6d3bb.svg" alt="TMDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="BigQuery" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/>
+  
 </p>
 
 
