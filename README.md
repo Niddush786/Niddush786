@@ -114,7 +114,7 @@ Outcome: Built predictive models to recommend the best platform fit for titles a
 
 ---
 
-REPOSITORIES
+COMMIT CONTRIBUTIONS HEATMAP 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
