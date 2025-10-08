@@ -2,33 +2,32 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
-  workflow_dispatch:       # allow manual runs
+    - cron: "0 0 * * *"      # daily at 00:00 UTC
+  workflow_dispatch:          # allow manual run
   push:
-    branches: [ main ]     # optional, runs when you push to main
+    branches: [ main ]        # optional
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions:
+      contents: write         # needed to commit the files
     steps:
-      - name: 1) Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: 2) Generate snake SVGs
+      - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 3) Publish to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Commit snake assets
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
+          commit_message: "chore: update snake assets"
+          file_pattern: assets/github-snake*.svg
