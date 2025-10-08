@@ -3,7 +3,7 @@
 </p>
 
 ---
- ABOUT ME 💁🏻‍♀️
+ ## ABOUT ME 💁🏻‍♀️
 
 - 🔭 I’m actively working on **shaping my career transition into Data Analytics** — building projects that showcase real-world problem solving with SQL, Python, and BI tools. Currently, I’m also developing a project called **By the Glass**, focused on applying data analysis to real-world business insights.
 - 🌱 I’m currently learning **machine learning basics** and pushing my skills in **AI automation for business** to make insights engaging and clear.  
@@ -15,7 +15,7 @@
   
 ---
 
-🌍 Skills That Translate Across Domains
+## 🌍 Skills That Translate Across Domains
 
 🎓 **Teaching → Communication & Simplification**
 I can break down complex ideas into clear, digestible insights — perfect for translating raw data into stories that non-technical stakeholders understand.
@@ -33,9 +33,7 @@ Skilled in SQL, Python, BigQuery,Automation by Zapier, and Looker/Power BI, I no
 I don’t just crunch numbers — I connect the “what” to the “why,” ensuring analysis supports smarter decisions, improved processes, and measurable outcomes.
 
 ---
-🛠️ Tech Stack / Skills
-
-**Tools & Skills:**  
+## 🛠️ Tech Stack / Skills
 
 <p align="left">
 
@@ -83,10 +81,11 @@ I don’t just crunch numbers — I connect the “what” to the “why,” ens
 
 ---
 
-📂 Featured Projects
+## 📂 Featured Projects
 
--Project [Streaming Smarter]
-  (https://lookerstudio.google.com/reporting/494d411b-2cd2-48cb-8a12-1781b26d1f0d):
+-Project <a href="https://lookerstudio.google.com/reporting/494d411b-2cd2-48cb-8a12-1781b26d1f0d">Streaming Smarter</a>
+
+  
   
   **A data analysis project exploring streaming platform content (Netflix, Prime, Disney+, Hulu)**
 Data ingestion: Google Sheets (initial logs) + API requests to TMDB for metadata
@@ -107,14 +106,15 @@ Outcome: Built predictive models to recommend the best platform fit for titles a
 
 ---
 
- TIMELINE
+ ## TIMELINE
+ 
 <p align="center">
   <img src="assets/timeline3-animated.svg" alt="People skills × Data skills timeline" />
 </p>
 
 ---
 
-COMMIT CONTRIBUTIONS HEATMAP 
+## COMMIT CONTRIBUTIONS HEATMAP 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
@@ -124,12 +124,17 @@ COMMIT CONTRIBUTIONS HEATMAP
 
 
 ---
-🤝 LET'S CONNECT
+## 🤝 LET'S CONNECT
 
-Links to LinkedIn, Email, Portfolio, Kaggle, etc.
+Links to LinkedIn, Email, GitHub, Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nt786)
-[![Email](https://img.shields.io/badge/Email-nida.tanveer98%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nida.tanveer98@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-nida.tanveer98%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](nida.tanveer98@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub%20README-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niddush786)
+![Portfolio](https://img.shields.io/badge/Portfolio-%20-yellow?style=for-the-badge)
+
+
+
+
 
 
