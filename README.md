@@ -115,7 +115,7 @@ Contributed to user onboarding, training sessions, and end-user support during t
 Helped ensure smooth system adoption and successful delivery of HR digital transformation initiatives.
 
   **Tools & Skills:**  
-<p>
+#<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP SuccessFactors" width="60" height="40"/>
   
   <img src="https://img.shields.io/badge/LMS-Learning%20Management%20System-0FA958?style=for-the-badge" alt="LMS"/>
@@ -172,6 +172,20 @@ Collaborated with cross-functional stakeholders to align reporting standards and
   <img src="https://img.shields.io/badge/Stakeholder%20Collaboration-Business%20Alignment-brightgreen?style=for-the-badge" alt="Stakeholder Collaboration"/>
 </p>
 
+<h3>Tech Stack & Skills:</h3>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/ITSM-Service%20Management-0078D4?style=for-the-badge" alt="ITSM"/>
+  <img src="https://img.shields.io/badge/Process%20Analysis-Operational%20Improvement-blue?style=for-the-badge" alt="Process Analysis"/>
+  <img src="https://img.shields.io/badge/Workflow%20Optimization-Service%20Desk-success?style=for-the-badge" alt="Workflow Optimization"/>
+  <img src="https://img.shields.io/badge/Incident%20Management-IT%20Operations-red?style=for-the-badge" alt="Incident Management"/>
+  <img src="https://img.shields.io/badge/SLA%20Tracking-Performance%20Monitoring-orange?style=for-the-badge" alt="SLA Tracking"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-Interactive%20Dashboards-yellow?style=for-the-badge" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/Reporting%20Frameworks-KPI%20Reporting-9C27B0?style=for-the-badge" alt="Reporting Frameworks"/>
+  <img src="https://img.shields.io/badge/Trend%20Analysis-Operational%20Insights-informational?style=for-the-badge" alt="Trend Analysis"/>
+  <img src="https://img.shields.io/badge/Stakeholder%20Collaboration-Business%20Alignment-brightgreen?style=for-the-badge" alt="Stakeholder Collaboration"/>
+</p>
 
 ---
 
