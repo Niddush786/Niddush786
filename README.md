@@ -196,11 +196,7 @@ Supported workflow documentation and solution design discussions to align automa
 Contributed to process improvement initiatives that reduced manual effort and improved transaction accuracy.
 Assisted in testing, validation, and deployment activities for automation solutions.
 
-**Tech Stack & Skills**
-
-
-
-  
+**Tech Stack & Skills** 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" 
        alt="SAP" width="70"/>
 
