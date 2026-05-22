@@ -19,20 +19,26 @@
 
 ## 🌍 Skills That Translate Across Domains
 
-🎓 **Teaching → Communication & Simplification**
-I can break down complex ideas into clear, digestible insights — perfect for translating raw data into stories that non-technical stakeholders understand.
+🎯 **IT Analyst → Process Optimization & Business Solutions**  
+Currently working as an IT Analyst, contributing to workflow optimization, reporting transformation, automation initiatives, and operational improvement projects across business functions. Experienced in aligning technology solutions with business objectives through data-driven decision-making and stakeholder collaboration.
 
-🧪**Forensics → Analytical Rigor & Attention to Detail**
-Forensic training sharpened my ability to spot patterns, question anomalies, and build evidence-based conclusions — directly transferable to data analysis and modeling.
+📊 **Teaching → Communication & Simplification**  
+Able to break down complex technical concepts into clear, actionable insights — helping bridge the gap between technical teams and business stakeholders through effective communication and reporting.
 
-🍽️ **Hospitality → Resilience & Stakeholder Management**
-Years in hospitality taught me adaptability, patience, and how to thrive under pressure while keeping client satisfaction central — crucial for collaborating with teams and delivering value.
+🧪 **Forensics → Analytical Rigor & Attention to Detail**  
+Forensic training strengthened my ability to identify patterns, investigate anomalies, and build evidence-based conclusions — skills that directly enhance data analysis, troubleshooting, and operational investigations.
 
-💻 **Bootcamp → Modern Data Toolset**
-Skilled in SQL, Python, BigQuery,Automation by Zapier, and Looker/Power BI, I now combine people skills with data capabilities to deliver actionable insights.
+🍽️ **Hospitality → Resilience & Stakeholder Management**  
+Years in hospitality developed adaptability, problem-solving under pressure, and strong stakeholder engagement skills while maintaining a customer-focused mindset in fast-paced environments.
 
-📊 **Data Analyst Mindset → Business Impact**
-I don’t just crunch numbers — I connect the “what” to the “why,” ensuring analysis supports smarter decisions, improved processes, and measurable outcomes.
+💻 **Technical Skillset → Data, BI & Automation**  
+Skilled in SQL, Python, Power BI, SAP SuccessFactors, RPA Automation, workflow analysis, and business process improvement — combining technical capabilities with operational understanding to deliver impactful solutions.
+
+🚀 **Continuous Learning & Projects → Growth Mindset**  
+Actively expanding expertise through hands-on projects in Data Analytics, Business Intelligence, Automation, and Process Optimization while continuously exploring modern technologies and business solutions.
+
+📈 **Business & Data Mindset → Driving Impact**  
+Focused not only on analyzing data, but on understanding the business context behind it — transforming insights into smarter decisions, improved workflows, and measurable operational value.
 
 ---
 ## 🛠️ Tech Stack / Skills
