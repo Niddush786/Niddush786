@@ -107,12 +107,12 @@ Outcome: Built predictive models to recommend the best platform fit for titles a
 Implemented and supported the rollout of SAP SuccessFactors modules including Learning Management System (LMS) and Change Management. Collaborated with HR and IT stakeholders to gather business requirements, validate workflows, and support process integration across departments.
 
   **Key Contributions**
-Assisted in end-to-end implementation and deployment activities for LMS and Change Management modules.
-Coordinated with cross-functional stakeholders to collect and validate business and technical requirements.
-Supported User Acceptance Testing (UAT), issue tracking, defect resolution, and system validation.
-Facilitated communication between business users and technical teams throughout the project lifecycle.
-Contributed to user onboarding, training sessions, and end-user support during transition and go-live phases.
-Helped ensure smooth system adoption and successful delivery of HR digital transformation initiatives.
+-Assisted in end-to-end implementation and deployment activities for LMS and Change Management modules.
+-Coordinated with cross-functional stakeholders to collect and validate business and technical requirements.
+-Supported User Acceptance Testing (UAT), issue tracking, defect resolution, and system validation.
+-Facilitated communication between business users and technical teams throughout the project lifecycle.
+-Contributed to user onboarding, training sessions, and end-user support during transition and go-live phases.
+-Helped ensure smooth system adoption and successful delivery of HR digital transformation initiatives.
 
   **Tools & Skills:**  
 #<p>
@@ -142,12 +142,12 @@ Helped ensure smooth system adoption and successful delivery of HR digital trans
 Led the redesign of IT service desk ticket categorization and workflow processes to improve operational efficiency, reporting accuracy, and stakeholder visibility. Built data-driven reporting solutions and interactive dashboards to support IT operations, SLA monitoring, and strategic decision-making.
 
 **Key Contributions**
-Redesigned service desk ticket categorization and workflow structures, improving reporting accuracy by 60%.
-Conducted detailed process analysis to identify operational inefficiencies and recommend service improvements.
-Developed structured reporting frameworks for incident management, SLA tracking, and trend analysis.
-Designed and deployed interactive Power BI dashboards and recurring operational performance reports.
-Delivered actionable insights that improved visibility into IT support operations and service performance.
-Collaborated with cross-functional stakeholders to align reporting standards and workflows with business requirements.
+-Redesigned service desk ticket categorization and workflow structures, improving reporting accuracy by 60%.
+-Conducted detailed process analysis to identify operational inefficiencies and recommend service improvements.
+-Developed structured reporting frameworks for incident management, SLA tracking, and trend analysis.
+-Designed and deployed interactive Power BI dashboards and recurring operational performance reports.
+-Delivered actionable insights that improved visibility into IT support operations and service performance.
+-Collaborated with cross-functional stakeholders to align reporting standards and workflows with business requirements.
 
 **Tech Stack & Skills**
 <p>
@@ -172,6 +172,7 @@ Collaborated with cross-functional stakeholders to align reporting standards and
   <img src="https://img.shields.io/badge/Stakeholder%20Collaboration-Business%20Alignment-brightgreen?style=for-the-badge" alt="Stakeholder Collaboration"/>
 </p>
 
+![SAP Tech Stack](assets/sap-tech-stack.png)
 
 
 ---
