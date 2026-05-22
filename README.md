@@ -197,6 +197,7 @@ Contributed to process improvement initiatives that reduced manual effort and im
 Assisted in testing, validation, and deployment activities for automation solutions.
 
 **Tech Stack & Skills** 
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" 
        alt="SAP" width="70"/>
   <img src="https://img.shields.io/badge/RPA-Process%20Automation-0A66C2?style=for-the-badge" 
@@ -247,7 +248,7 @@ Links to LinkedIn, Email, GitHub, Portfolio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nt786)
 [![Email](https://img.shields.io/badge/Email-nida.tanveer98%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](nida.tanveer98@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub%20README-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niddush786)
-![Portfolio](https://img.shields.io/badge/Portfolio-%20-yellow?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20Now-yellow?style=for-the-badge)](https://github.com/Niddush786/Niddush786)
 
 
 
