@@ -83,7 +83,7 @@ I don’t just crunch numbers — I connect the “what” to the “why,” ens
 
 ## 📂 Featured Projects
 
--Project <a href="https://lookerstudio.google.com/reporting/494d411b-2cd2-48cb-8a12-1781b26d1f0d">Streaming Smarter</a>
+- **Capstone Project**<a href="https://lookerstudio.google.com/reporting/494d411b-2cd2-48cb-8a12-1781b26d1f0d">Streaming Smarter</a>
 
   
   
@@ -103,7 +103,39 @@ Outcome: Built predictive models to recommend the best platform fit for titles a
   
 </p>
 
+- **SAP SuccessFactors Implementation & Rollout**
+Implemented and supported the rollout of SAP SuccessFactors modules including Learning Management System (LMS) and Change Management. Collaborated with HR and IT stakeholders to gather business requirements, validate workflows, and support process integration across departments.
 
+**Key Contributions**
+Assisted in end-to-end implementation and deployment activities for LMS and Change Management modules.
+Coordinated with cross-functional stakeholders to collect and validate business and technical requirements.
+Supported User Acceptance Testing (UAT), issue tracking, defect resolution, and system validation.
+Facilitated communication between business users and technical teams throughout the project lifecycle.
+Contributed to user onboarding, training sessions, and end-user support during transition and go-live phases.
+Helped ensure smooth system adoption and successful delivery of HR digital transformation initiatives.
+
+**Tools & Skills:**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" alt="SAP SuccessFactors" width="40" height="40"/>
+  
+  <img src="https://img.shields.io/badge/LMS-Learning%20Management%20System-0FA958?style=for-the-badge" alt="LMS"/>
+  
+  <img src="https://img.shields.io/badge/Change%20Management-Organizational%20Transition-blue?style=for-the-badge" alt="Change Management"/>
+  
+  <img src="https://img.shields.io/badge/UAT-User%20Acceptance%20Testing-orange?style=for-the-badge" alt="UAT"/>
+  
+  <img src="https://img.shields.io/badge/HR%20Systems-HRIS%20Processes-9C27B0?style=for-the-badge" alt="HR Systems"/>
+  
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-Collaboration-success?style=for-the-badge" alt="Stakeholder Management"/>
+  
+  <img src="https://img.shields.io/badge/Process%20Integration-Business%20Workflows-informational?style=for-the-badge" alt="Process Integration"/>
+  
+  <img src="https://img.shields.io/badge/Issue%20Tracking-Bug%20%26%20Task%20Management-red?style=for-the-badge" alt="Issue Tracking"/>
+  
+  <img src="https://img.shields.io/badge/User%20Training-End%20User%20Support-yellow?style=for-the-badge" alt="User Training"/>
+  
+  <img src="https://img.shields.io/badge/Go--Live%20Support-Deployment%20Support-brightgreen?style=for-the-badge" alt="Go-Live Support"/>
+</p>
 ---
 
  ## TIMELINE
