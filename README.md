@@ -116,10 +116,10 @@ Focused not only on analyzing data, but on understanding the business context be
   <img src="https://img.shields.io/badge/Data%20Governance-555555?style=for-the-badge&logo=shield&logoColor=white" />
 
   <!-- Data Analysis -->
-  <img src="https://img.shields.io/badge/Data%20Analysis-Analytics-1E88E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-1E88E5?style=for-the-badge" />
 
   <!-- Data Visualization -->
-  <img src="https://img.shields.io/badge/Data%20Visualization-Dashboards-8E24AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-Dashboarding-8E24AA?style=for-the-badge" />
 
   <!-- Stakeholder Management -->
   <img src="https://img.shields.io/badge/Stakeholder%20Management-Business%20Communication-43A047?style=for-the-badge" />
@@ -162,6 +162,8 @@ Outcome: Built predictive models to recommend the best platform fit for titles a
   
 </p>
 
+
+
 - **SAP SuccessFactors Implementation & Rollout**
   
 Implemented and supported the rollout of SAP SuccessFactors modules including Learning Management System (LMS) and Change Management. Collaborated with HR and IT stakeholders to gather business requirements, validate workflows, and support process integration across departments.
@@ -199,6 +201,8 @@ Helped ensure smooth system adoption and successful delivery of HR digital trans
   <img src="https://img.shields.io/badge/Go--Live%20Support-Deployment%20Support-brightgreen?style=for-the-badge" alt="Go-Live Support"/>
 </p> 
 
+
+
 - **IT Service Desk Process Optimization & Reporting Analytics**
   
 Led the redesign of IT service desk ticket categorization and workflow processes to improve operational efficiency, reporting accuracy, and stakeholder visibility. Built data-driven reporting solutions and interactive dashboards to support IT operations, SLA monitoring, and strategic decision-making.
@@ -235,6 +239,8 @@ Collaborated with cross-functional stakeholders to align reporting standards and
 
   <img src="https://img.shields.io/badge/Stakeholder%20Collaboration-Business%20Alignment-brightgreen?style=for-the-badge" alt="Stakeholder Collaboration"/>
 </p>
+
+
 
 **Robotic Process Automation (RPA) – Finance & Procurement Automation**
 
