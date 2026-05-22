@@ -41,47 +41,6 @@ Actively expanding expertise through hands-on projects in Data Analytics, Busine
 Focused not only on analyzing data, but on understanding the business context behind it — transforming insights into smarter decisions, improved workflows, and measurable operational value.
 
 ---
-## 🛠️ Tech Stack / Skills
-
-<p align="left">
-
-  <!-- Google Sheets -->
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-  <!-- Microsoft Excel -->
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
-
-  <!-- BigQuery -->
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
-
-  <!-- Chart.js -->
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-  <!-- dbt -->
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-
-  <!-- Fivetran -->
-  <img src="https://img.shields.io/badge/Fivetran-4285F4?style=for-the-badge&logo=fivetran&logoColor=white" />
-
-  <!-- Google Tag Manager -->
-  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" />
-
-  <!-- Zapier -->
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
-
-  <!-- Data Governance (generic shield) -->
-  <img src="https://img.shields.io/badge/Data%20Governance-555555?style=for-the-badge&logo=shield&logoColor=white" />
-
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- BeautifulSoup -->
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 
   ## 🛠️ Tech Stack / Skills
 
