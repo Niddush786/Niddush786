@@ -5,10 +5,12 @@
 ---
  ## ABOUT ME 💁🏻‍♀️
 
-- 🔭 I’m actively working on **shaping my career transition into Data Analytics** — building projects that showcase real-world problem solving with SQL, Python, and BI tools. Currently, I’m also developing a project called **By the Glass**, focused on applying data analysis to real-world business insights.
-- 🌱 I’m currently learning **machine learning basics** and pushing my skills in **AI automation for business** to make insights engaging and clear.  
-- 👯 I’m looking to collaborate on **open-source data projects, case studies, and analysis challenges** that highlight creativity and practical impact.  
-- 🤔 I’m looking for help with **navigating the data industry** as someone coming from hospitality and teaching — understanding how to position my transferable skills effectively.  
+- 💼 Currently working as an IT Analyst, focusing on process optimization, reporting solutions, system improvements, and business-driven technology initiatives.
+- 🚀 Continuously enhancing my technical stack through hands-on projects involving Power BI, SQL, Python, SAP SuccessFactors, RPA, and workflow automation.
+- 📊 Passionate about transforming operational data into actionable insights through dashboards, analytics, and process improvement strategies.
+- 🛠️ Actively building real-world projects to strengthen my expertise in Data Analytics, Business Intelligence, Automation, and IT Operations.
+- 🌱 Dedicated to continuous learning, exploring emerging technologies, automation frameworks, and data-driven solutions to improve business efficiency.
+- 👯 I’m looking to collaborate on **open-source data projects, case studies, and analysis challenges** that highlight creativity and practical impact.   
 - 💬 Ask me about **customer insights, turning operations into numbers, visual storytelling, and how to teach complex topics simply**  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: Whether teaching a class, studying crime scenes, or managing a buzzing restaurant floor — I’ve always chased clarity. Now I just happen to find it in data. 🔍📊
@@ -172,8 +174,55 @@ Led the redesign of IT service desk ticket categorization and workflow processes
   <img src="https://img.shields.io/badge/Stakeholder%20Collaboration-Business%20Alignment-brightgreen?style=for-the-badge" alt="Stakeholder Collaboration"/>
 </p>
 
-![SAP Tech Stack](assets/sap-tech-stack.png)
+**Robotic Process Automation (RPA) – Finance & Procurement Automation**
 
+Contributed to the design and implementation of Robotic Process Automation (RPA) solutions focused on optimizing finance and procurement operations. Supported automation initiatives by analyzing business processes, defining workflow requirements, and assisting in automation testing and deployment activities.
+
+**Key Contributions**
+-Participated in the development and implementation of RPA workflows for finance and procurement processes.
+-Conducted business process analysis to identify automation opportunities, inefficiencies, and process gaps.
+-Collaborated with stakeholders to gather functional requirements, define business rules, validation logic, and exception handling scenarios.
+-Supported workflow documentation and solution design discussions to align automation initiatives with business objectives.
+-Contributed to process improvement initiatives that reduced manual effort and improved transaction accuracy.
+-Assisted in testing, validation, and deployment activities for automation solutions.
+
+**Tech Stack & Skills**
+
+<h3 align="center">Tech Stack & Skills</h3>
+
+<p align="center">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" 
+       alt="SAP" width="70"/>
+
+  <img src="https://img.shields.io/badge/RPA-Process%20Automation-0A66C2?style=for-the-badge" 
+       alt="RPA"/>
+
+  <img src="https://img.shields.io/badge/Business%20Process%20Analysis-Workflow%20Optimization-blue?style=for-the-badge" 
+       alt="Business Process Analysis"/>
+
+  <img src="https://img.shields.io/badge/Finance%20Automation-Procurement%20Workflows-success?style=for-the-badge" 
+       alt="Finance Automation"/>
+
+  <img src="https://img.shields.io/badge/Workflow%20Design-Automation%20Solutions-orange?style=for-the-badge" 
+       alt="Workflow Design"/>
+
+  <img src="https://img.shields.io/badge/Requirements%20Gathering-Stakeholder%20Collaboration-red?style=for-the-badge" 
+       alt="Requirements Gathering"/>
+
+  <img src="https://img.shields.io/badge/Business%20Rules-Validation%20Logic-yellow?style=for-the-badge" 
+       alt="Business Rules"/>
+
+  <img src="https://img.shields.io/badge/Exception%20Handling-Process%20Reliability-9C27B0?style=for-the-badge" 
+       alt="Exception Handling"/>
+
+  <img src="https://img.shields.io/badge/Testing%20%26%20Validation-Automation%20QA-informational?style=for-the-badge" 
+       alt="Testing & Validation"/>
+
+  <img src="https://img.shields.io/badge/Process%20Improvement-Operational%20Efficiency-brightgreen?style=for-the-badge" 
+       alt="Process Improvement"/>
+
+</p>
 
 ---
 
