@@ -83,7 +83,7 @@ I don’t just crunch numbers — I connect the “what” to the “why,” ens
 
 ## 📂 Featured Projects
 
-- **Capstone Project**<a href="https://lookerstudio.google.com/reporting/494d411b-2cd2-48cb-8a12-1781b26d1f0d">Streaming Smarter</a>
+- **Capstone Project**  <a href="https://lookerstudio.google.com/reporting/494d411b-2cd2-48cb-8a12-1781b26d1f0d">Streaming Smarter</a>
 
   
   
@@ -106,7 +106,7 @@ Outcome: Built predictive models to recommend the best platform fit for titles a
 - **SAP SuccessFactors Implementation & Rollout**
 Implemented and supported the rollout of SAP SuccessFactors modules including Learning Management System (LMS) and Change Management. Collaborated with HR and IT stakeholders to gather business requirements, validate workflows, and support process integration across departments.
 
-**Key Contributions**
+  **Key Contributions**
 Assisted in end-to-end implementation and deployment activities for LMS and Change Management modules.
 Coordinated with cross-functional stakeholders to collect and validate business and technical requirements.
 Supported User Acceptance Testing (UAT), issue tracking, defect resolution, and system validation.
@@ -114,9 +114,9 @@ Facilitated communication between business users and technical teams throughout 
 Contributed to user onboarding, training sessions, and end-user support during transition and go-live phases.
 Helped ensure smooth system adoption and successful delivery of HR digital transformation initiatives.
 
-**Tools & Skills:**  
+  **Tools & Skills:**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" alt="SAP SuccessFactors" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP SuccessFactors" width="60" height="40"/>
   
   <img src="https://img.shields.io/badge/LMS-Learning%20Management%20System-0FA958?style=for-the-badge" alt="LMS"/>
   
