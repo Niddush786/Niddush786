@@ -91,9 +91,7 @@ Focused not only on analyzing data, but on understanding the business context be
 
 ## 📂 Featured Projects
 
-- **Capstone Project**  <a href="https://lookerstudio.google.com/reporting/494d411b-2cd2-48cb-8a12-1781b26d1f0d">Streaming Smarter</a>
-
-  
+- **Capstone Project**  <a href="https://lookerstudio.google.com/reporting/494d411b-2cd2-48cb-8a12-1781b26d1f0d">Streaming Smarter</a> 
   
   **A data analysis project exploring streaming platform content (Netflix, Prime, Disney+, Hulu)**
 Data ingestion: Google Sheets (initial logs) + API requests to TMDB for metadata
@@ -102,6 +100,7 @@ Analysis & modeling: Python (Pandas, Scikit-learn) for cleaning, EDA, and predic
 Outcome: Built predictive models to recommend the best platform fit for titles and visualized KPIs (content diversity, audience coverage, ratings)
 
  **Tech Stack:** 
+ 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="BigQuery" width="40" height="40"/>
@@ -112,17 +111,20 @@ Outcome: Built predictive models to recommend the best platform fit for titles a
 </p>
 
 - **SAP SuccessFactors Implementation & Rollout**
+- 
 Implemented and supported the rollout of SAP SuccessFactors modules including Learning Management System (LMS) and Change Management. Collaborated with HR and IT stakeholders to gather business requirements, validate workflows, and support process integration across departments.
 
   **Key Contributions**
--Assisted in end-to-end implementation and deployment activities for LMS and Change Management modules.
--Coordinated with cross-functional stakeholders to collect and validate business and technical requirements.
--Supported User Acceptance Testing (UAT), issue tracking, defect resolution, and system validation.
--Facilitated communication between business users and technical teams throughout the project lifecycle.
--Contributed to user onboarding, training sessions, and end-user support during transition and go-live phases.
--Helped ensure smooth system adoption and successful delivery of HR digital transformation initiatives.
+  
+Assisted in end-to-end implementation and deployment activities for LMS and Change Management modules.
+Coordinated with cross-functional stakeholders to collect and validate business and technical requirements.
+Supported User Acceptance Testing (UAT), issue tracking, defect resolution, and system validation.
+Facilitated communication between business users and technical teams throughout the project lifecycle.
+Contributed to user onboarding, training sessions, and end-user support during transition and go-live phases.
+Helped ensure smooth system adoption and successful delivery of HR digital transformation initiatives.
 
-  **Tools & Skills:**  
+  **Tools & Skills:**
+  
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP SuccessFactors" width="60" height="40"/>
   
@@ -150,14 +152,16 @@ Implemented and supported the rollout of SAP SuccessFactors modules including Le
 Led the redesign of IT service desk ticket categorization and workflow processes to improve operational efficiency, reporting accuracy, and stakeholder visibility. Built data-driven reporting solutions and interactive dashboards to support IT operations, SLA monitoring, and strategic decision-making.
 
 **Key Contributions**
--Redesigned service desk ticket categorization and workflow structures, improving reporting accuracy by 60%.
--Conducted detailed process analysis to identify operational inefficiencies and recommend service improvements.
--Developed structured reporting frameworks for incident management, SLA tracking, and trend analysis.
--Designed and deployed interactive Power BI dashboards and recurring operational performance reports.
--Delivered actionable insights that improved visibility into IT support operations and service performance.
--Collaborated with cross-functional stakeholders to align reporting standards and workflows with business requirements.
+
+Redesigned service desk ticket categorization and workflow structures, improving reporting accuracy by 60%.
+Conducted detailed process analysis to identify operational inefficiencies and recommend service improvements.
+Developed structured reporting frameworks for incident management, SLA tracking, and trend analysis.
+Designed and deployed interactive Power BI dashboards and recurring operational performance reports.
+Delivered actionable insights that improved visibility into IT support operations and service performance.
+Collaborated with cross-functional stakeholders to align reporting standards and workflows with business requirements.
 
 **Tech Stack & Skills**
+
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 
@@ -185,18 +189,17 @@ Led the redesign of IT service desk ticket categorization and workflow processes
 Contributed to the design and implementation of Robotic Process Automation (RPA) solutions focused on optimizing finance and procurement operations. Supported automation initiatives by analyzing business processes, defining workflow requirements, and assisting in automation testing and deployment activities.
 
 **Key Contributions**
--Participated in the development and implementation of RPA workflows for finance and procurement processes.
--Conducted business process analysis to identify automation opportunities, inefficiencies, and process gaps.
--Collaborated with stakeholders to gather functional requirements, define business rules, validation logic, and exception handling scenarios.
--Supported workflow documentation and solution design discussions to align automation initiatives with business objectives.
--Contributed to process improvement initiatives that reduced manual effort and improved transaction accuracy.
--Assisted in testing, validation, and deployment activities for automation solutions.
+Participated in the development and implementation of RPA workflows for finance and procurement processes.
+Conducted business process analysis to identify automation opportunities, inefficiencies, and process gaps.
+Collaborated with stakeholders to gather functional requirements, define business rules, validation logic, and exception handling scenarios.
+Supported workflow documentation and solution design discussions to align automation initiatives with business objectives.
+Contributed to process improvement initiatives that reduced manual effort and improved transaction accuracy.
+Assisted in testing, validation, and deployment activities for automation solutions.
 
 **Tech Stack & Skills**
 
-<h3 align="center">Tech Stack & Skills</h3>
 
-<p align="center">
+
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" 
        alt="SAP" width="70"/>
