@@ -83,6 +83,99 @@ Focused not only on analyzing data, but on understanding the business context be
   <!-- BeautifulSoup -->
   <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 
+  ## 🛠️ Tech Stack / Skills
+
+<p align="left">
+
+  <!-- Google Sheets -->
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+
+  <!-- Microsoft Excel -->
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- BigQuery -->
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
+
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+  <!-- Tableau -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <!-- BeautifulSoup -->
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- scikit-learn -->
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+  <!-- Chart.js -->
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <!-- dbt -->
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+
+  <!-- Zapier -->
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
+
+  <!-- SAP -->
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+
+  <!-- SAP SuccessFactors -->
+  <img src="https://img.shields.io/badge/SAP%20SuccessFactors-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+
+  <!-- RPA -->
+  <img src="https://img.shields.io/badge/RPA-Process%20Automation-5C2D91?style=for-the-badge&logo=uipath&logoColor=white" />
+
+  <!-- UiPath -->
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
+
+  <!-- ServiceNow -->
+  <img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white" />
+
+  <!-- Jira -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+  <!-- Data Governance -->
+  <img src="https://img.shields.io/badge/Data%20Governance-555555?style=for-the-badge&logo=shield&logoColor=white" />
+
+  <!-- Data Analysis -->
+  <img src="https://img.shields.io/badge/Data%20Analysis-Analytics-1E88E5?style=for-the-badge" />
+
+  <!-- Data Visualization -->
+  <img src="https://img.shields.io/badge/Data%20Visualization-Dashboards-8E24AA?style=for-the-badge" />
+
+  <!-- Stakeholder Management -->
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-Business%20Communication-43A047?style=for-the-badge" />
+
+  <!-- Process Improvement -->
+  <img src="https://img.shields.io/badge/Process%20Improvement-Operational%20Efficiency-F4511E?style=for-the-badge" />
+
+  <!-- KPI Reporting -->
+  <img src="https://img.shields.io/badge/KPI%20Reporting-Performance%20Tracking-3949AB?style=for-the-badge" />
+
+  <!-- Workflow Automation -->
+  <img src="https://img.shields.io/badge/Workflow%20Automation-Business%20Processes-00897B?style=for-the-badge" />
+
+</p>
+
 </p>
 
 
@@ -111,7 +204,7 @@ Outcome: Built predictive models to recommend the best platform fit for titles a
 </p>
 
 - **SAP SuccessFactors Implementation & Rollout**
-- 
+  
 Implemented and supported the rollout of SAP SuccessFactors modules including Learning Management System (LMS) and Change Management. Collaborated with HR and IT stakeholders to gather business requirements, validate workflows, and support process integration across departments.
 
   **Key Contributions**
@@ -189,6 +282,7 @@ Collaborated with cross-functional stakeholders to align reporting standards and
 Contributed to the design and implementation of Robotic Process Automation (RPA) solutions focused on optimizing finance and procurement operations. Supported automation initiatives by analyzing business processes, defining workflow requirements, and assisting in automation testing and deployment activities.
 
 **Key Contributions**
+
 Participated in the development and implementation of RPA workflows for finance and procurement processes.
 Conducted business process analysis to identify automation opportunities, inefficiencies, and process gaps.
 Collaborated with stakeholders to gather functional requirements, define business rules, validation logic, and exception handling scenarios.
@@ -226,7 +320,7 @@ Assisted in testing, validation, and deployment activities for automation soluti
  ## TIMELINE
  
 <p align="center">
-  <img src="assets/timeline3-animated.svg" alt="People skills × Data skills timeline" />
+  <img src="assets/timeline3-animated.svg" alt="Career Timeline" width="1000"/>
 </p>
 
 ---
