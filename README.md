@@ -279,7 +279,7 @@ Assisted in testing, validation, and deployment activities for automation soluti
  ## TIMELINE
  
 <p align="center">
-  <img src="assets/timeline-animated.svg" alt="Career Timeline" width="1000"/>
+  <img src="assets/assets/timeline-animated.svg" alt="Career Timeline" width="1000"/>
 </p>
 
 ---
