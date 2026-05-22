@@ -199,31 +199,22 @@ Assisted in testing, validation, and deployment activities for automation soluti
 **Tech Stack & Skills** 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" 
        alt="SAP" width="70"/>
-
   <img src="https://img.shields.io/badge/RPA-Process%20Automation-0A66C2?style=for-the-badge" 
        alt="RPA"/>
-
   <img src="https://img.shields.io/badge/Business%20Process%20Analysis-Workflow%20Optimization-blue?style=for-the-badge" 
        alt="Business Process Analysis"/>
-
   <img src="https://img.shields.io/badge/Finance%20Automation-Procurement%20Workflows-success?style=for-the-badge" 
        alt="Finance Automation"/>
-
   <img src="https://img.shields.io/badge/Workflow%20Design-Automation%20Solutions-orange?style=for-the-badge" 
        alt="Workflow Design"/>
-
   <img src="https://img.shields.io/badge/Requirements%20Gathering-Stakeholder%20Collaboration-red?style=for-the-badge" 
        alt="Requirements Gathering"/>
-
   <img src="https://img.shields.io/badge/Business%20Rules-Validation%20Logic-yellow?style=for-the-badge" 
        alt="Business Rules"/>
-
   <img src="https://img.shields.io/badge/Exception%20Handling-Process%20Reliability-9C27B0?style=for-the-badge" 
        alt="Exception Handling"/>
-
   <img src="https://img.shields.io/badge/Testing%20%26%20Validation-Automation%20QA-informational?style=for-the-badge" 
        alt="Testing & Validation"/>
-
   <img src="https://img.shields.io/badge/Process%20Improvement-Operational%20Efficiency-brightgreen?style=for-the-badge" 
        alt="Process Improvement"/>
 
