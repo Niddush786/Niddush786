@@ -123,7 +123,7 @@ Implemented and supported the rollout of SAP SuccessFactors modules including Le
 -Helped ensure smooth system adoption and successful delivery of HR digital transformation initiatives.
 
   **Tools & Skills:**  
-#<p>
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP SuccessFactors" width="60" height="40"/>
   
   <img src="https://img.shields.io/badge/LMS-Learning%20Management%20System-0FA958?style=for-the-badge" alt="LMS"/>
