@@ -135,7 +135,44 @@ Helped ensure smooth system adoption and successful delivery of HR digital trans
   <img src="https://img.shields.io/badge/User%20Training-End%20User%20Support-yellow?style=for-the-badge" alt="User Training"/>
   
   <img src="https://img.shields.io/badge/Go--Live%20Support-Deployment%20Support-brightgreen?style=for-the-badge" alt="Go-Live Support"/>
+</p> 
+
+- **IT Service Desk Process Optimization & Reporting Analytics**
+  
+Led the redesign of IT service desk ticket categorization and workflow processes to improve operational efficiency, reporting accuracy, and stakeholder visibility. Built data-driven reporting solutions and interactive dashboards to support IT operations, SLA monitoring, and strategic decision-making.
+
+**Key Contributions**
+Redesigned service desk ticket categorization and workflow structures, improving reporting accuracy by 60%.
+Conducted detailed process analysis to identify operational inefficiencies and recommend service improvements.
+Developed structured reporting frameworks for incident management, SLA tracking, and trend analysis.
+Designed and deployed interactive Power BI dashboards and recurring operational performance reports.
+Delivered actionable insights that improved visibility into IT support operations and service performance.
+Collaborated with cross-functional stakeholders to align reporting standards and workflows with business requirements.
+
+**Tech Stack & Skills**
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+
+  <img src="https://img.shields.io/badge/ITSM-Service%20Management-0078D4?style=for-the-badge" alt="ITSM"/>
+
+  <img src="https://img.shields.io/badge/Process%20Analysis-Operational%20Improvement-blue?style=for-the-badge" alt="Process Analysis"/>
+
+  <img src="https://img.shields.io/badge/Workflow%20Optimization-Service%20Desk-success?style=for-the-badge" alt="Workflow Optimization"/>
+
+  <img src="https://img.shields.io/badge/Incident%20Management-IT%20Operations-red?style=for-the-badge" alt="Incident Management"/>
+
+  <img src="https://img.shields.io/badge/SLA%20Tracking-Performance%20Monitoring-orange?style=for-the-badge" alt="SLA Tracking"/>
+
+  <img src="https://img.shields.io/badge/Data%20Visualization-Interactive%20Dashboards-yellow?style=for-the-badge" alt="Data Visualization"/>
+
+  <img src="https://img.shields.io/badge/Reporting%20Frameworks-KPI%20Reporting-9C27B0?style=for-the-badge" alt="Reporting Frameworks"/>
+
+  <img src="https://img.shields.io/badge/Trend%20Analysis-Operational%20Insights-informational?style=for-the-badge" alt="Trend Analysis"/>
+
+  <img src="https://img.shields.io/badge/Stakeholder%20Collaboration-Business%20Alignment-brightgreen?style=for-the-badge" alt="Stakeholder Collaboration"/>
 </p>
+
+
 ---
 
  ## TIMELINE
